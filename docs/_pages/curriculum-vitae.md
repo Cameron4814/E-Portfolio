@@ -1,5 +1,5 @@
 ---
-permalink: /cv
+permalink: /cv/
 
 layout: splash
 title: "Curriculum Vitae"

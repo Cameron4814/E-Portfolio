@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: false
-permalink: /experience
+permalink: /experience/
 
 title: "Experience"
 header:

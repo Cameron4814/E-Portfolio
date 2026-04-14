@@ -1,7 +1,7 @@
 ---
 
 layout: splash
-permalink: /projects
+permalink: /projects/
 
 title: "Projects"
 
